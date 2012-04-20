@@ -1,0 +1,1 @@
+<div id='fbs-topic-flyout' class='fbs-flyout-content'><h1 id='fbs-flyout-title' class='fbs-flyout-image-false'></h1><h3 class='fbs-topic-properties fbs-flyout-image-false'><strong></strong></h3><p class='fbs-topic-article fbs-flyout-image-false'>${comment ? comment : ''}</p></div><div class='fbs-attribution'><span class='fbs-flyout-types'></span></div>
